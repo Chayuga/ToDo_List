@@ -1,4 +1,4 @@
-# eltodo
+# ToDo List
 
 A category and priority based ToDo app
 
